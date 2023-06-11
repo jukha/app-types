@@ -1,4 +1,4 @@
-# app-types
+# Six types of Apps
 Generally there are 6 types of apps.
 
 ## 1) Social Media Apps
